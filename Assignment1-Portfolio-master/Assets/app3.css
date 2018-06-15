@@ -1,0 +1,31 @@
+h1 {
+    background-color: aliceblue;
+    border: #000000;
+    border-style: solid;
+    border-bottom: 3px;
+}
+.auto-style1 {
+	vertical-align: text-top;
+	border-style: solid;
+	border-width: 2px;
+}
+.auto-style2 {
+	font-size: x-large;
+	text-decoration: underline;
+}
+address {	border-color: #0000FF;
+}
+.auto-style3 {
+	font-family: Algerian;
+}
+.auto-style4 {
+	color: #000000;
+}
+.auto-style5 {
+	vertical-align: text-top;
+	border-style: solid;
+	border-width: 4px;
+}
+.auto-style6 {
+	font-size: x-large;
+}

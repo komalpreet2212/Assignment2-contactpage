@@ -1,0 +1,27 @@
+h1{
+	background-image:url('images/logo2.jpg');
+}
+.auto-style3 {
+	vertical-align: top;
+}
+.auto-style4 {
+	color: #000000;
+}
+.auto-style5 {
+	vertical-align: top;
+	border-style: solid;
+	border-width: 2px;
+}
+.auto-style6 {
+	font-size: xx-large;
+	text-decoration: underline;
+	font-family: Algerian;
+}
+.auto-style7 {
+	font-size: xx-large;
+	font-family: Algerian;
+}
+.auto-style8 {
+	font-size: medium;
+	font-family: Algerian;
+}
